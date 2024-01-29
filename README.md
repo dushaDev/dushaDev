@@ -7,14 +7,14 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dushan6693?label=Follow%20Me&style=social)](https://github.com/dushan6693)
+📝 ***Feel free to contact me. I am always here...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dushan6693?label=Follow%20Me&style=social)](https://github.com/dushan6693)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Dushan%20Madushanka-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([[https://www.linkedin.com/in/ahmad-alsawalqeh/](https://www.linkedin.com/in/dushan-madushanka-360252196/)](https://www.linkedin.com/in/dushan-madushanka-360252196/))
 [![Mail](https://img.shields.io/badge/gmail-dushanmadushankabeligala9@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:dushanmadushankabeligala9@gmail.com)
 <br>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Dushan_Madushanka-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)]([[https://www.hackerrank.com/sawalqa_jo](https://www.hackerrank.com/profile/dushanmadushank1)](https://www.hackerrank.com/profile/dushanmadushank1))
+[![HackerRank](https://img.shields.io/badge/HackerRank-Dushan_Madushanka-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/dushanmadushank1)
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Dushan Madushanka</strong></samp></h2>
@@ -54,9 +54,10 @@ https://simpleicons.org/
 
 <img alt="Github Pages" width="20px" height="20px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" />![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)
 
-
+<!--
 🚩 **Highlights:** <br>
 &nbsp;<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' style="margin-top: 10px;" width="20px" height="20px">&nbsp;&nbsp;&nbsp;<span>Arctic Code Vault Contributor</span>
+-->
 
 
 📚 **Working on:** <br>
