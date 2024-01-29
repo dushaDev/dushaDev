@@ -7,7 +7,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/Ahmad-Sawalqeh)
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dushan6693?label=Follow%20Me&style=social)](https://github.com/dushan6693)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Dushan%20Madushanka-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/ahmad-alsawalqeh/](https://www.linkedin.com/in/dushan-madushanka-360252196/))
@@ -73,7 +73,7 @@ https://simpleicons.org/
 
 🤓 **Interested:** <br>
 
-![Flutter]([https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&labelColor=77c3fc](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&labelColor=77c3fc))
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&labelColor=77c3fc)
 ![Android](https://img.shields.io/badge/-Android%20dev-5dbb63?style=flat&logo=android&labelColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
