@@ -19,12 +19,14 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Dushan Madushanka</strong></samp></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
+<p align='center'>Software developer | Full-stack JavaScript | Flutter developer| Android developer | Web developer</p>
 
-<p align='left'> 📫 As someone who is always passionate about learning more about tech and life. I love to develop Mobile applications and ever since been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack career path and love working with cutting-edge tools and technologies.</p>
+<p align='left'> 📫I love to develop Mobile applications and ever since been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack career path and love working with cutting-edge tools and technologies.</p>
 
 💻 **Languages and Tools:** 🛠️<br>
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
+![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=F05032&labelColor=ffffff)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=F05032&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
@@ -34,15 +36,14 @@ https://simpleicons.org/
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+
 
 
 🧐 **Knowledge of:**<br>
@@ -68,10 +69,11 @@ https://simpleicons.org/
 
 
 🤓 **Interested:** <br>
-
+![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=F05032&labelColor=ED8B00)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&labelColor=77c3fc)
 ![Android](https://img.shields.io/badge/-Android%20dev-5dbb63?style=flat&logo=android&labelColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=F05032&labelColor=ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 
 
