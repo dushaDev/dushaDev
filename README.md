@@ -7,7 +7,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/dushan6693?label=Follow%20Me&style=social)](https://github.com/dushan6693)
+📝 ***Feel free to contact me. I am always here...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/dushan6693?label=Follow%20Me&style=social)](https://github.com/dushan6693)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Dushan%20Madushanka-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/dushan-madushanka-360252196/)
@@ -36,7 +36,7 @@ https://simpleicons.org/
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-
+![.NET](https://img.shields.io/badge/-.NET-000000?style=flat&logo=.net&logoColor=F05032&labelColor=ED8B00)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
@@ -48,7 +48,7 @@ https://simpleicons.org/
 
 🧐 **Knowledge of:**<br>
 
- `Object-Oriented Programming`, `Mobile application development`, `data structures and algorithms`.
+ `Object-oriented programming`, `Mobile application development`, `data structures and algorithms`.
 
 
 🌍 **Deployment platforms:**<br>
@@ -66,7 +66,7 @@ https://simpleicons.org/
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-000000?style=flat&logo=github-actions&logoColor=2088FF&labelColor=ffffff)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-
+![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=F05032&labelColor=ED8B00)
 
 🤓 **Interested:** <br>
 ![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=F05032&labelColor=ED8B00)
