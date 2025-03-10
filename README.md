@@ -7,7 +7,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/dushan6693?label=Follow%20Me&style=social)](https://github.com/dushan6693)
+📝 ***Feel free to contact me. I am always here...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/dushaDev?label=Follow%20Me&style=social)](https://github.com/dushaDev)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Dushan%20Madushanka-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/dushan-madushanka-360252196/)
@@ -21,7 +21,7 @@ https://simpleicons.org/
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Flutter developer| Android developer | Web developer</p>
 
-<p align='left'> 📫I love to develop Mobile applications and ever since been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack career path and love working with cutting-edge tools and technologies.</p>
+<p align='left'> 📫I love developing Mobile applications and have been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack career path and love working with cutting-edge tools and technologies.</p>
 
 💻 **Languages and Tools:** 🛠️<br>
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=F05032&labelColor=ffffff)
