@@ -18,7 +18,7 @@ https://simpleicons.org/
 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Dushan Madushanka</strong></samp></h2>
-<h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
+<h3 align='center'><strong><a href="dushadev.github.io" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Flutter developer| Android developer | Web developer</p>
 
 <p align='left'> 📫I love developing Mobile applications and have been a self-taught software developer and an unstopped learner. I have evolved into a Full Stack career path and love working with cutting-edge tools and technologies.</p>
