@@ -83,6 +83,8 @@ https://simpleicons.org/
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=dushan6693" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=dushaDev" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" height="120px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" height="120px" src="https://i.pinimg.com/1200x/a5/17/48/a517480b64a20cf5300732502467b98b.jpg" />
+ 
 </p>
