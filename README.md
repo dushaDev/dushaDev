@@ -1,4 +1,5 @@
 ![Hello](images/hello.svg)
+
 <h1 align="center">Hi 👋, I'm Dushan Madushanka</h1>
 <h3 align="center">Ug. Software Engineer | Passionate About Web & Mobile App Dev | UI-UX | Tech Enthusiast | Musicophile🎧| Stargazer✨</h3>
 
@@ -14,7 +15,7 @@
 
 - 📄 Know about my experiences. [Get Resume](https://drive.google.com/file/d/1n--ewgHiY6CKVkJFCJv0YEMcbYIDVX6a/view?usp=sharing)
 
-- ⚡ Fun fact **Bananas are radioactive🍌☢️**
+- ⚡ Fun facts: **Bananas are radioactive🍌☢️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +32,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 ![My Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
 
   <!-- GitHub Stats -->
@@ -39,7 +39,6 @@
 
   <!-- Top Languages (Your Card) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushaDev&layout=compact&theme=dark" style="height: 195px;">
-
 
   <!-- Streak Stats -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dushadev&theme=dark" alt="dushadev" />
@@ -52,4 +51,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dushadev">
   </a>
 </div>
-
