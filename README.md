@@ -1,4 +1,4 @@
-![Hello](docs/hello.svg)
+![Hello](images/hello.svg)
 <h1 align="center">Hi 👋, I'm Dushan Madushanka</h1>
 <h3 align="center">Ug. Software Engineer | Passionate About Web & Mobile App Dev | UI-UX | Tech Enthusiast | Musicophile🎧| Stargazer✨</h3>
 
