@@ -4,7 +4,9 @@
 <h3 align="center">Ug. Software Engineer | Passionate About Web & Mobile App Dev | UI-UX | Tech Enthusiast | Musicophile🎧| Stargazer✨</h3>
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/View-Portfolio-2EA44F?style=for-the-badge&logo=github)](https://dushadev.github.io/)
+<a href="https://dushadev.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View-Portfolio-2EA44F?style=for-the-badge&logo=github" alt="Portfolio">
+</a>
 
 </div>
 
@@ -58,8 +60,8 @@
 
 <h3 align="center">Support:</h3>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/dushaDev">
+  <a href="https://www.buymeacoffee.com/dushaDev" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="dushadev">
   </a>
 </div>
- <div align="center"><img src="images/logo.png" width="120"></div>
+ <div align="center" style= "margin-top: 20px;"><img src="images/logo.png" width="120"></div>
