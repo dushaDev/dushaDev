@@ -22,10 +22,9 @@ jobs:
 
       - name: Generate 3D Contribution Graph
         uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
-          username: ${{ github.repository_owner }}
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Uses your PAT
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}  # Moved to env section
           THEME: "night-rainbow"
           INCLUDE_PRIVATE: "true"
           YEAR: "last-3-years"
