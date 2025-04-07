@@ -33,7 +33,7 @@
 <a href="https://www.hackerrank.com/dushanmadushank1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dushanmadushank1" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
 
 <p align="center">
@@ -41,8 +41,10 @@
     <img src="https://skillicons.dev/icons?i=angular,c,cs,html,css,tailwind,bootstrap,docker,dotnet,flask,java,javascript,laravel,firebase,mongodb,mysql,sqlite,react,nextjs,nodejs,php,postman,python,git,arduino,selenium,xd,figma,illustrator,photoshop" />
   </a>
 </p>
-
+<div style="gap: 5px;">
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 <h3 align="center">My Contributions</h3>
 ![My Contributions](./profile-3d-contrib/profile-night-green.svg)
 
