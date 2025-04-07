@@ -16,7 +16,7 @@ https://simpleicons.org/
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Dushan_Madushanka-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/profile/dushanmadushank1)
 
-
+![](./profile-3d-contrib/profile-southern-hemisphere.svg)
 <h2 align='center'><samp><strong>Hi there 👋, I am Dushan Madushanka</strong></samp></h2>
 <h3 align='center'><strong><a href="https://dushadev.github.io/" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Flutter developer| Android developer | Web developer</p>
