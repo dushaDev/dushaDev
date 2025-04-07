@@ -2,13 +2,14 @@
 <div align="center"><img src="images/hello.svg"></div>
 
 <h1 align="center">Hi 👋, I'm Dushan Madushanka</h1>
+ <div align="center"><img src="images/logo.png"></div>
 <h3 align="center">Ug. Software Engineer | Passionate About Web & Mobile App Dev | UI-UX | Tech Enthusiast | Musicophile🎧| Stargazer✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushaDev&label=Profile%20views&color=0e75b6&style=flat" alt="dushaDev" /> </p>
 
 - 🔭 I’m currently working on **NSBM FindX Mobile app**
 
-- 🌱 I’m currently learning **React and Next**
+- 🌱 I’m currently learning **Next,Postman and Selenium**
 
 - 👨‍💻 All of my projects are available at [dushadev](https://dushadev.github.io/)
 
@@ -55,6 +56,6 @@
 <h3 align="center">Support:</h3>
 <div align="center">
   <a href="https://www.buymeacoffee.com/dushaDev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="dushadev">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="dushadev">
   </a>
 </div>
