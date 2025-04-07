@@ -2,7 +2,7 @@
 <div align="center"><img src="images/hello.svg"></div>
 
 <h1 align="center">Hi 👋, I'm Dushan Madushanka</h1>
- <div align="center"><img src="images/logo.png"></div>
+ <div align="center"><img src="images/logo.png" width="250"></div>
 <h3 align="center">Ug. Software Engineer | Passionate About Web & Mobile App Dev | UI-UX | Tech Enthusiast | Musicophile🎧| Stargazer✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushaDev&label=Profile%20views&color=0e75b6&style=flat" alt="dushaDev" /> </p>
