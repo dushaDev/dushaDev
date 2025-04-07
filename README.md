@@ -23,9 +23,9 @@
 - 📄 Know about my experiences. [Get Resume](https://drive.google.com/file/d/1n--ewgHiY6CKVkJFCJv0YEMcbYIDVX6a/view?usp=sharing)
 
 - ⚡ Fun facts:
-- **Bananas are radioactive.🍌☢️**
-- **If the age of the universe were compressed to one year, our history would be only a second.🌌**
-- **Your heart can start to sync with the beat of the song.💖**
+   **Bananas are radioactive.🍌☢️**
+   **If the age of the universe were compressed to one year, our history would be only a second.🌌**
+   **Your heart can start to sync with the beat of the song.💖**
 
 <h3 align="left">Connect with me</h3>
 <p align="left" style="gap: 8px;">
