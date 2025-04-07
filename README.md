@@ -1,9 +1,8 @@
-
 <div align="center"><img src="images/hello.svg"></div>
 
 <h1 align="center">Hi 👋, I'm Dushan Madushanka</h1>
- <div align="center"><img src="images/logo.png" width="160"></div>
 <h3 align="center">Ug. Software Engineer | Passionate About Web & Mobile App Dev | UI-UX | Tech Enthusiast | Musicophile🎧| Stargazer✨</h3>
+ <div align="center"><img src="images/logo.png" width="160"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushaDev&label=Profile%20views&color=0e75b6&style=flat" alt="dushaDev" /> </p>
 
@@ -59,3 +58,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="dushadev">
   </a>
 </div>
+ <div align="center"><img src="images/logo.png" width="120"></div>
