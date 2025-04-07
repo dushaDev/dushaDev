@@ -5,7 +5,7 @@
 <div align="center">
   
 <a href="https://dushadev.github.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/View-Portfolio-2EA44F?style=for-the-badge&logo=github" alt="Portfolio">
+  <img src="https://img.shields.io/badge/View-Portfolio-FF7037?style=for-the-badge&logo=github" alt="Portfolio">
 </a>
 
 </div>
@@ -38,12 +38,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,c,cs,html,css,tailwind,bootstrap,docker,dotnet,flask,java,javascript,laravel,firebase,mongodb,mysql,sqlite,react,nextjs,nodejs,php,postman,python,git,arduino,selenium,xd,illustrator,photoshop" />
+    <img src="https://skillicons.dev/icons?i=angular,c,cs,html,css,tailwind,bootstrap,docker,dotnet,flask,java,javascript,laravel,firebase,mongodb,mysql,sqlite,react,nextjs,nodejs,php,postman,python,git,arduino,selenium,xd,figma,illustrator,photoshop" />
   </a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-![My Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+<h3 align="center">My Contributions</h3>
+![My Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
 
