@@ -22,9 +22,12 @@
 
 - 📄 Know about my experiences. [Get Resume](https://drive.google.com/file/d/1n--ewgHiY6CKVkJFCJv0YEMcbYIDVX6a/view?usp=sharing)
 
-- ⚡ Fun facts: **Bananas are radioactive🍌☢️**
+- ⚡ Fun facts:
+- **Bananas are radioactive.🍌☢️**
+- **If the age of the universe were compressed to one year, our history would be only a second.🌌**
+- **Your heart can start to sync with the beat of the song.💖**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left" style="gap: 8px;">
 <a href="https://linkedin.com/in/dushan-madushanka-360252196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dushan-madushanka-360252196" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14477369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14477369" height="30" width="40" /></a>
@@ -44,7 +47,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">My Contributions</h3>
+<h3 align="center">Contributions</h3>
 
 ![My Contributions](./profile-3d-contrib/profile-night-green.svg)
 
@@ -61,10 +64,10 @@
 
 </div>
 
-<h3 align="center">Support:</h3>
+<h3 align="center">Support</h3>
 <div align="center">
   <a href="https://www.buymeacoffee.com/dushaDev" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="dushadev">
   </a>
 </div>
- <div align="center" style= "margin-top: 20px;"><img src="images/logo.png" width="120"></div>
+ <div align="center" style= "margin-top: 50px;"><img src="images/logo.png" width="120"></div>
