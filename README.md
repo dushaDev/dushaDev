@@ -55,6 +55,6 @@
 <h3 align="center">Support:</h3>
 <div align="center">
   <a href="https://www.buymeacoffee.com/dushaDev">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dushadev">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="dushadev">
   </a>
 </div>
