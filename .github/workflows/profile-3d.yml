@@ -24,10 +24,10 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}  # Moved to env section
+          USERNAME: ${{ github.repository_owner }}
           THEME: "night-rainbow"
           INCLUDE_PRIVATE: "true"
-          YEAR: "last-3-years"
+          CURRENT_YEAR: "true"  # This shows only current year's contributions
           MAX_REPOS: 100
           ENABLE_ANIMATION: "true"
 
