@@ -41,9 +41,11 @@
     <img src="https://skillicons.dev/icons?i=angular,c,cs,html,css,tailwind,bootstrap,docker,dotnet,flask,java,javascript,laravel,firebase,mongodb,mysql,sqlite,react,nextjs,nodejs,php,postman,python,git,arduino,selenium,xd,figma,illustrator,photoshop" />
   </a>
 </p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">My Contributions</h3>
+
 ![My Contributions](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto; padding: 10px 0;">
