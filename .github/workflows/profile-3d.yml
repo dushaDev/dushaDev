@@ -25,7 +25,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  # Uses your PAT
           THEME: "night-rainbow"
           INCLUDE_PRIVATE: "true"
           YEAR: "last-3-years"
