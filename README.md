@@ -2,7 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Dushan Madushanka</h1>
 <h3 align="center">Ug. Software Engineer | Passionate About Web & Mobile App Dev | UI-UX | Tech Enthusiast | Musicophile🎧| Stargazer✨</h3>
- <div align="center"><img src="images/logo.png" width="160"></div>
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/View-Portfolio-2EA44F?style=for-the-badge&logo=github)](https://dushadev.github.io/)
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushaDev&label=Profile%20views&color=0e75b6&style=flat" alt="dushaDev" /> </p>
 
