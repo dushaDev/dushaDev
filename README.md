@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushaDev&layout=compact&theme=dark" style="height: 195px;">
 
   <!-- Streak Stats -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dushadev&theme=dark" alt="dushadev" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dushaDev&theme=dark" alt="dushadev" />
 
 </div>
 
