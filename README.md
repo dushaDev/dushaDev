@@ -12,11 +12,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushaDev&label=Profile%20views&color=0e75b6&style=flat" alt="dushaDev" /> </p>
 
-- 🔭 I’m currently working on **NSBM FindX Mobile app**
-
-- 🌱 I’m currently learning **Next,Postman and Selenium**
-
-- 👨‍💻 All of my projects are available at [dushadev](https://dushadev.github.io/)
 
 - 📫 How to reach me **dushanmadushankabeligala9@gmail.com**
 
