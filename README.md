@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dushaDev&label=Profile%20views&color=0e75b6&style=flat" alt="dushaDev" /> </p>
 
 
-- 📫 How to reach me **dushanmadushankabeligala9@gmail.com**
+- 📫 How to reach me **dushanhello@gmail.com**
 
 - 📄 Know about my experiences. [Get Resume](https://drive.google.com/file/d/1n--ewgHiY6CKVkJFCJv0YEMcbYIDVX6a/view?usp=sharing)
 
